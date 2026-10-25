@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-data/
-*.xlsx
-*.xls
-*.csv
-.ipynb_checkpoints/
